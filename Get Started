@@ -1,0 +1,3 @@
+Installation On ubuntu --> $sudo apt install scala
+To compile Scala Program --> $scalac <file_name>.scala
+To run the Scala Program --> $scala <file_name>
